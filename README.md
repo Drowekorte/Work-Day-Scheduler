@@ -1,6 +1,6 @@
 # Work-Day-Scheduler-
 This is a scheduler created with JQuery
-## Name
+
 
 Keep track of your schedual with this handy JS scheduler. <br>
 https://drowekorte.github.io/Work-Day-Scheduler/index.html
