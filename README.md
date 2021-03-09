@@ -14,7 +14,7 @@ Work schedulers are a handy way to keep track of all your to-dos. Give this Work
 * CSS
 * JavaScript
 
-![alt text](assets/imgs/Work-Day-Scheduler.jpg "Work Day Scheduler")
+![Screen Shot](assets/imgs/Work-Day-Scheduler.jpg "Work Day Scheduler")
 
 
 ## Requirements: VSCode
