@@ -12,9 +12,8 @@ https://drowekorte.github.io/Work-Day-Scheduler/index.html
 Work schedulers are a handy way to keep track of all your to-dos. Give this Work Day Scheduler, built with JavaScript, and get back to staying on task!    
 * HTML
 * CSS
-* JavaScript
-
-![Screen Shot](assets/imgs/Work-Day-Scheduler.jpg "Work Day Scheduler")
+* JavaScript <br>
+![Screen Shot](assets/imgs/Work-Day-Scheduler.jpg)
 
 
 ## Requirements: VSCode
